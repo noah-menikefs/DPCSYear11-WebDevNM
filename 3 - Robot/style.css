@@ -105,12 +105,12 @@ h1 {
 	/* These properties are new and you haven't encountered
 	in this course. Check out CSS Tricks to see what it does! */
 	position: relative; 
-	top: 100px; 
-	left: 40px; 
+	top: 115px; 
+	left: 55px; 
 } 
 
 .right_eye { 
 	position: relative; 
-	top: 100px; 
+	top: 95px; 
 	left: 120px; 
 }
